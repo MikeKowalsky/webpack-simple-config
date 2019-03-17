@@ -1,4 +1,5 @@
 import { bro } from "./bro";
+import "./styles/main.scss";
 
 console.log(bro("Dude"));
 console.log(bro("C'mon"));
